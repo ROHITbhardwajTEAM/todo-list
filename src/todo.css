@@ -15,10 +15,10 @@
     body {
         display: table-cell;
         vertical-align: middle;
-        background-image: url(https://images.pexels.com/photos/459301/pexels-photo-459301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-        background-size: cover;
-    
-}
+          }
+ body {       background-image: url(https://images.pexels.com/photos/459301/pexels-photo-459301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+              background-size: cover;
+      }
 
 .main_div {
     display: flex;
